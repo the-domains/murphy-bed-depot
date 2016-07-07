@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-07T03:25:36.035Z'
+datePublished: '2016-07-07T03:27:51.063Z'
+sourcePath: _posts/2016-07-07-product-description.md
 isBasedOnUrl: >-
   https://murphybeddepot.com/metro-panel-bed-customize-your-very-own-and-buy-online-today/
 keywords:
@@ -15,8 +16,8 @@ keywords:
   - panel
 related: []
 author: []
-dateModified: '2016-07-07T03:25:31.764Z'
-title: Product Description
+dateModified: '2016-07-07T03:27:48.377Z'
+title: The Metro Panel Bed System
 app_links: []
 publisher:
   url: 'https://murphybeddepot.com'
@@ -26,10 +27,11 @@ publisher:
   domain: murphybeddepot.com
 description: >-
   Our Metro Panel Bed System includes everything you need to transform any space
-  into a dual-purpose guest room.
+  into a dual-purpose guest room. Eight colors of furniture-grade melamine are
+  available at our lowest prices, with a myriad of custom options available.
+  Custom Designed: Each Murphy Bed system is crafted just for you.
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-07-07-product-description.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -39,9 +41,9 @@ _type: MediaObject
 ---
 <article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e9015ca5673210ac36cafb708cdd6d98/noop.jpg?input=https%3A%2F%2Fcdn3.bigcommerce.com%2Fs-wy21bo7y%2Fproducts%2F83%2Fimages%2F380%2F20252582618_dfc8eff859_o__60533.1464121405.400.559.jpg%3Fc%3D2" /><h1>Metro Panel Bed: Customize Your Very Own, and Buy Online Today</h1><p>Our Metro Panel Bed System includes everything you need to transform any space into a dual-purpose guest room. Eight colors of furniture-grade melamine are available at our lowest prices, with a myriad of custom options available. Custom Designed: Each Murphy Bed system is crafted just for you.</p></article>
 
-# Product Description
+# The Metro Panel Bed System
 
-## The Metro Panel Bed System
+# Product Description
 
 Our Metro Panel Bed System includes everything you need to transform any space into a dual-purpose guest room.
 
