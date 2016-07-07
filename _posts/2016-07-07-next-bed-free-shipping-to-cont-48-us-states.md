@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-07T03:16:58.436Z'
+datePublished: '2016-07-07T03:17:09.288Z'
+sourcePath: _posts/2016-07-07-next-bed-free-shipping-to-cont-48-us-states.md
 isBasedOnUrl: 'https://murphybeddepot.com/next-bed-free-shipping-to-cont-48-u-s-states/'
 keywords:
   - mattress
@@ -14,7 +15,7 @@ keywords:
   - 866-844-9255
 related: []
 author: []
-dateModified: '2016-07-07T03:16:56.283Z'
+dateModified: '2016-07-07T03:17:04.440Z'
 title: Next Bed-FREE Shipping to Cont. 48 U.S. States
 app_links: []
 publisher:
@@ -34,7 +35,6 @@ description: >-
   frame. Slats of laminated wood to support the mattress of your choice.
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-07-07-next-bed-free-shipping-to-cont-48-us-states.md
 inFeed: true
 hasPage: false
 inNav: false
