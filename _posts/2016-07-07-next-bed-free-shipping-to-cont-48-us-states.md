@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-07T03:20:43.983Z'
+datePublished: '2016-07-07T03:20:54.417Z'
 sourcePath: _posts/2016-07-07-next-bed-free-shipping-to-cont-48-us-states.md
 isBasedOnUrl: 'https://murphybeddepot.com/next-bed-free-shipping-to-cont-48-u-s-states/'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - 866-844-9255
 related: []
 author: []
-dateModified: '2016-07-07T03:20:34.593Z'
+dateModified: '2016-07-07T03:20:54.147Z'
 title: 'Next Bed:'
 app_links: []
 publisher:
@@ -34,7 +34,7 @@ description: >-
   Depot has an Industry-Leading Warranty on the white powder-coated steel bed
   frame. Slats of laminated wood to support the mattress of your choice.
 inLanguage: en
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
