@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-07T03:19:57.912Z'
+datePublished: '2016-07-07T03:20:43.983Z'
 sourcePath: _posts/2016-07-07-next-bed-free-shipping-to-cont-48-us-states.md
 isBasedOnUrl: 'https://murphybeddepot.com/next-bed-free-shipping-to-cont-48-u-s-states/'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - 866-844-9255
 related: []
 author: []
-dateModified: '2016-07-07T03:19:46.613Z'
+dateModified: '2016-07-07T03:20:34.593Z'
 title: 'Next Bed:'
 app_links: []
 publisher:
